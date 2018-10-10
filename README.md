@@ -1,5 +1,6 @@
 Song: Love Yourz
 Artist: J. Cole
+Album: 2014 Forest Hills Dr.
 
 Love yours
 No such thing as a life that's better than yours
