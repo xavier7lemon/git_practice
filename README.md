@@ -1,4 +1,4 @@
-Song: Love Yourz
+Song: "Love Yourz"
 Artist: J. Cole
 Album: 2014 Forest Hills Dr.
 
